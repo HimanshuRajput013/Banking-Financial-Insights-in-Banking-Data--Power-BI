@@ -68,4 +68,29 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 
 **Rare Transaction Types:** Rare transactions, mostly under the "Payment" category, show low value but differ from common types like Transfer, Withdrawal, Deposit, or Payment.
 
+![Himanshu bank data analysis part-2 Dashboard_page-0002](https://github.com/user-attachments/assets/a225fab5-2d53-478d-94cd-1092b2ca1fd5)
+## Insights - Interest Rate, Loan & Credit Score Analysis:
+
+**Interest Rate and Balance Correlation:** There is no correlation between interest rates and account balances.
+
+**Credit Score and Loan Amount Correlation:** No clear relationship exists between credit scores and loan amounts.
+
+**Account Age and Balance Correlation:** No correlation is found between the age of an account and its balance.
+
+**Credit Score Distribution by Account Type:**
+
+* **300-400 Range:** Predominantly Checking account holders.
+* **800-900 Range:** Mostly Loan account holders.
+* **Others:** Majority are Savings account holders.
+
+**Insight:** Customers with higher credit scores tend to receive more loans, though their numbers are relatively small. Savings account holders show a broad credit score range, while lower credit scores are more common with Checking accounts.
+
+**Interest Rate Distribution by Account Type:** Most account holders have interest rates between 1% and 3%.
+
+**Loan Amount by City and Sector:**
+
+* **City Observation:** London leads with the highest loan amounts, followed by Berlin, Sydney, and others.
+* **Sector Observation:** The Technology sector has the largest loan amounts, followed by Education, Healthcare, and other sectors.
+
+
 
