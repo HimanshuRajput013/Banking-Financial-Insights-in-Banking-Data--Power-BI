@@ -2,6 +2,10 @@
 [DASHBOARD PDF](https://drive.google.com/file/d/1tYjZu1ycI76ZCpSQuCGqjvEodUKHlnal/view?usp=sharing)
 
 ![Himanshu bank data analysis part-2 Dashboard_page-0001](https://github.com/user-attachments/assets/9427f270-69e0-4daf-8046-502f77cfa52e)
+![Himanshu bank data analysis part-2 Dashboard_page-0002](https://github.com/user-attachments/assets/8f80ede6-4603-4a3a-8125-eabd524c1da5)
+![Himanshu bank data analysis part-2 Dashboard_page-0003](https://github.com/user-attachments/assets/ec246f2e-7958-4d60-9dfc-53f1268baf52)
+
+
 
 ### **Objective**
 
