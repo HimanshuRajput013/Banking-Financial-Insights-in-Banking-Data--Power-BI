@@ -99,19 +99,22 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 
 **Customer Risk Assessment:**
 
-* **High-Risk Customers:** 9 customers have a risk score greater than 10.
-* **Low-Risk Customers:** 680 customers have a risk score below 1.
+* **High-Risk Customers:** 239 customers have a high risk score.
+* **Low-Risk Customers:** 251 customers have a low risk score.
+
 **Sector Transaction Behavior:**
 
-* **Technology Sector:** This sector leads with the highest transaction volume, totaling $884k.
+* **Technology Sector:** This sector leads with the highest transaction volume, totaling $1.07M.
 * **Finance Sector:** Customers in this sector have the lowest transaction volume.
-* 
+
+
 **Demographic Transaction Behavior:**
 
 **Sydney:** Highest transaction count with 226 transactions.
 **New York & London:** Both have the same number of transactions, but the transaction amount is higher for London.
 
-**Branch Performance:** Branch 57 is the top-performing branch. The top five performing branches can be highlighted using a funnel chart.
+
+**Branch Performance:** Branch 479 is the top-performing branch. The top five performing branches can be highlighted using a funnel chart.
 
 
 
