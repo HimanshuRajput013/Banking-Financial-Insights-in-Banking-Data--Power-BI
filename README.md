@@ -51,6 +51,21 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 
 **6.Optimization of Banking Operations:** Leveraged data-driven insights to advise FinInsight Group on strategies for improving banking performance, including customer relationship management and risk assessment.
 
-## Dashboard:
-![Bank data Dashboard_page-0001](https://github.com/user-attachments/assets/83808162-3199-4732-a90e-c26188dc7e80)
+## Dashboard & Insights
+![Himanshu bank data analysis part-2 Dashboard_page-0001](https://github.com/user-attachments/assets/b6d0cdb9-e9e7-49f5-8c9b-0ece25c9b932)
+
+**Transactions & Balance Insights:**
+
+Hourly Transaction Trends: The busiest times for transactions are 11 AM and 3 PM, while the largest amounts are seen at 2 AM and 11 AM.
+
+**Quarterly Transaction Trends:** Transaction volume remains stable, but credit and debit transactions show opposite trends.
+
+**Historical Trends & Forecast:** Transaction volumes peak from July to September, with little fluctuation overall. A slight decline in volume is forecast for the next quarter.
+
+**Average Account Balance:** Savings accounts have the highest average balance compared to other account types.
+
+**High-Value Transactions:** Transactions above $5,000 are flagged as high value, making up 2.5% of total transactions, with a lower frequency than regular transactions but often considered for fraud.
+
+**Rare Transaction Types:** Rare transactions, mostly under the "Payment" category, show low value but differ from common types like Transfer, Withdrawal, Deposit, or Payment.
+
 
