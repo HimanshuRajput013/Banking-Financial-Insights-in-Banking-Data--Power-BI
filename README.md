@@ -1,6 +1,6 @@
 # Banking-Financial-Insights-in-Banking-Data--Power-BI
 ![Bank data Dashboard_page-0001](https://github.com/user-attachments/assets/ae53a359-3db3-4c6c-981f-04ae52643076)
-![Uploading Himanshu bank data analysis part-2 Dashboard_page-0001.jpg…]()
+![Himanshu bank data analysis part-2 Dashboard_page-0001](https://github.com/user-attachments/assets/9427f270-69e0-4daf-8046-502f77cfa52e)
 
 ### **Objective**
 
