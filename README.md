@@ -91,6 +91,28 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 
 * **City Observation:** London leads with the highest loan amounts, followed by Berlin, Sydney, and others.
 * **Sector Observation:** The Technology sector has the largest loan amounts, followed by Education, Healthcare, and other sectors.
+* 
+![Himanshu bank data analysis part-2 Dashboard_page-0003](https://github.com/user-attachments/assets/ffcf554d-03ee-4136-948f-1962a19f7e3b)
+## Insights - Branch & Customer Analysis:
+
+**Branch Analysis:** Branch 479 recorded the highest number of transactions, with a total of 8.
+
+**Customer Risk Assessment:**
+
+* **High-Risk Customers:** 9 customers have a risk score greater than 10.
+* **Low-Risk Customers:** 680 customers have a risk score below 1.
+**Sector Transaction Behavior:**
+
+* **Technology Sector:** This sector leads with the highest transaction volume, totaling $884k.
+* **Finance Sector:** Customers in this sector have the lowest transaction volume.
+* 
+**Demographic Transaction Behavior:**
+
+**Sydney:** Highest transaction count with 226 transactions.
+**New York & London:** Both have the same number of transactions, but the transaction amount is higher for London.
+
+**Branch Performance:** Branch 57 is the top-performing branch. The top five performing branches can be highlighted using a funnel chart.
+
 
 
 
