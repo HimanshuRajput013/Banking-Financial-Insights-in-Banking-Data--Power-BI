@@ -54,9 +54,9 @@ In this project, I leveraged Power BI to conduct a comprehensive analysis of ban
 ## Dashboard & Insights
 ![Himanshu bank data analysis part-2 Dashboard_page-0001](https://github.com/user-attachments/assets/b6d0cdb9-e9e7-49f5-8c9b-0ece25c9b932)
 
-**Transactions & Balance Insights:**
+# **Transactions & Balance Insights:**
 
-Hourly Transaction Trends: The busiest times for transactions are 11 AM and 3 PM, while the largest amounts are seen at 2 AM and 11 AM.
+**Hourly Transaction Trends:** The busiest times for transactions are 11 AM and 3 PM, while the largest amounts are seen at 2 AM and 11 AM.
 
 **Quarterly Transaction Trends:** Transaction volume remains stable, but credit and debit transactions show opposite trends.
 
